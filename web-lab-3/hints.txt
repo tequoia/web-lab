@@ -1,0 +1,3 @@
+bio bio hint
+include include hint
+new-word new-hint

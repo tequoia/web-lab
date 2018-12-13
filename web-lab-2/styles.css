@@ -1,0 +1,104 @@
+.main_page * {
+	border: 0px solid;
+	text-align: center;
+}
+
+body {
+	background-color: #ccccff;
+}
+
+.header {
+	color: #9900cc;
+	width: 85%;
+	float: right;
+	font-size: 400%;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.menu {
+	position: fixed;
+	top: 5px;
+	left: 0;
+	color: blue;
+	width: auto;
+	font-size: 120%;
+	padding: 20px;
+	text-transform: uppercase;
+	background-color: #99bbff;
+	border-radius: 0 200px 200px 0;
+}
+
+.menu * {
+	border: 0px solid;
+}
+
+ul {
+	padding-left: 0;
+	margin-left: 0;
+	line-height: 145px;
+}
+
+ul li {
+	list-style-type: none;
+}
+
+input{
+	font-size: 120%;
+	background: transparent;
+}
+
+input:hover{
+	font-size: 140%;
+}
+
+.content {
+	color: black;
+	width: 85%;
+	float: right;
+	text-align: left;
+	font-size: 200%;
+	padding-top: 10px;
+}
+
+.extra {
+	color: black;
+	width: 85%;
+	float: right;
+	font-size: 130%;
+	text-align: left;
+}
+
+img {
+	margin-right: 10px;
+	border-radius: 10px;
+}
+
+.footer {
+	color: black;
+	width: 85%;
+	float: right;
+}
+
+.current_menu{
+	color: red;
+}
+
+.hint {
+	position: absolute;
+	background-color: #ffea77;
+	padding: 10px;
+	border-radius: 10px 10px 10px 0;
+	font-size: 90%;
+	font-style: italic;
+}
+
+.word{
+	color: blue;
+}
+
+input{
+	position: ;
+	top: 100px;
+	left: 100px;
+}
